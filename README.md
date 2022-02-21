@@ -1,4 +1,4 @@
-# Tarifka App
+# Recipe App
 
 <img src="image/Categories.png" height="500"> <img src="image/Meals.png" height="500"> <img src="image/Details.png" height="500">
 
